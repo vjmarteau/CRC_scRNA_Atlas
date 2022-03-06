@@ -1,3 +1,10 @@
+*.txt
+*.pdf
+*.tar
+*.txt.gz
+*.fastq.gz
+*.xlsx
+.DS_Store
 # History files
 .Rhistory
 .Rapp.history
